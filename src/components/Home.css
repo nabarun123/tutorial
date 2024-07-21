@@ -14,3 +14,30 @@
   width: 200px;
   margin: 0 auto;
 }
+.card-image {
+  width: 100%;
+  height: auto;
+}
+
+.custom-file-upload {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.custom-file-upload label {
+  display: block;
+  cursor: pointer;
+}
+
+.custom-file-upload img {
+  width: 100px;
+  height: 100px;
+  border: 3px dotted #ccc;
+  padding: 5px;
+  display: block;
+  margin: 0 auto;
+}
+
+.hidden {
+  display: none;
+}

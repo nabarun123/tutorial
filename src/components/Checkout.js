@@ -44,6 +44,7 @@ function Checkout() {
                     </Button>
                 </CardBody>
             </Card>
+
         </div>
     );
 }
